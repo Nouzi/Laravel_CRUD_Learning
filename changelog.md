@@ -3,3 +3,4 @@
 **24.2.2022**
 - Vytvorený projekt v Laravel 9 
 - Integrovaný [Tailwind css](https://tailwindcss.com).
+- Pridané a upravené views, na ktorých sa neskôr bude vedieť pracovať s tabuľkou.

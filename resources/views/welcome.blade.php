@@ -12,5 +12,6 @@
 
     <body>
       <h1 class="text-3xl font-bold text-red-500 text-center mt-8"> Hello world </h1>
+      <a class="text-3xl font-bold text-blue-500 mt-8" href="/edit">Click for edit</a>
     </body>
 </html>
